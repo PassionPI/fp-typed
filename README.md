@@ -1,1 +1,1 @@
-# fp-typed
+# @fp/typed

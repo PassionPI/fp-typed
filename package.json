@@ -1,0 +1,22 @@
+{
+  "name": "@fp/typed",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PassionPI/fp-typed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PassionPI/fp-typed/issues"
+  },
+  "homepage": "https://github.com/PassionPI/fp-typed#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
